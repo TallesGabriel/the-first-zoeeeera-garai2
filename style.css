@@ -1,0 +1,37 @@
+header {
+        background-color:rgba(2, 135, 245, 0.911);
+        display:flex;
+        justify-content:space-between;
+
+}
+
+container {
+    display:flex;
+}
+
+
+section img{
+        width:125px;
+        display:flex;
+        align-items:space-between;
+        justify-content:baseline;
+
+}
+
+.pokemonfoda {
+        width:50px;
+        border:3px;
+        border-color:rgba(47, 3, 167, 0.616);
+        border-style:outset;
+        
+}
+article {
+        display:flex;
+        width:100vh;
+        border
+
+}
+main {
+        display:flex;
+        flex-direction: column;
+ }
