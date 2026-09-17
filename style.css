@@ -34,5 +34,5 @@ article {
 main {
         display:flex;
         flex-direction: column;
-        background-color:rgba(16, 16, 160, 0.657);
+        background-color: royalblue;
  }
